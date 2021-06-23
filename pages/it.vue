@@ -228,16 +228,3 @@
   }
   
 </script>
-
-<style>
-  .el-table .warning-row {
-    background: #ffffcc;
-  }
-
-  .el-table .success-row {
-    background: #f0f9eb;
-  }
-    .el-table .total {
-    background: #287B8D;
-  }
-</style>

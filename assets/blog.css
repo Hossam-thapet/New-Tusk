@@ -66,3 +66,6 @@ span {
 .mainpage {
   background: #ecfafd;
 }
+.el-table .total {
+  background: #287b8d;
+}
